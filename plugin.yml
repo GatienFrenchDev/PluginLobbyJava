@@ -1,0 +1,7 @@
+name: PluginLobby
+version : 1.0
+author: Gatien
+main: tk.gatiendev.pluginlobby.Main
+commands:
+  join:
+    permission: lobby.join
